@@ -47,8 +47,9 @@ sidebar:
       layout: markdown
       title: 欢迎
       content: | # support markdown
-        s
-    
+        这是**廖廷皞**的博客，你能来到这里，是我的荣幸，谢谢你的光临！
+
+        如果你想了解更多关于我的信息，请点击上方的“关于”按钮吧！
 
 
 
