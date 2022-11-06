@@ -6,9 +6,9 @@
 		isArchive: <%=is_archive()%>,
 		isTag: <%=is_tag()%>,
 		isCategory: <%=is_category()%>,
-		open_in_new: <%=theme.open_in_new%>,
+		open_in_new: <%=theme.open_in_new.article%>,
 		toc_hide_index: <%=theme.toc_hide_index%>,
-		root: "<%=config.root%>",
+		root: "<%- url_for('/') %>",
 		innerArchive: <%=theme.smart_menu.innerArchive ? true : false%>,
 		showTags: <%=(theme.slider && theme.slider.showTags) ? true : false%>
 	}
@@ -19,3 +19,6 @@
 <% if (theme.mathjax){ %>
 <%- partial('mathjax') %>
 <% } %>
+<%# "弃用" %>
+<!-- <%- partial('background') %> -->
+<%- partial('tab-title-change') %>

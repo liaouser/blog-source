@@ -1,3 +1,5 @@
+# zh-TW: Chinese (Traditional) 台灣正體
+# 转换帮助工具:https://brushes8.com/zhong-wen-jian-ti-fan-ti-zhuan-huan
 categories: 分類
 search: 搜尋
 tags: 標籤
@@ -17,3 +19,27 @@ powered_by: Powered by
 rss_feed: RSS Feed
 category: Category
 tag: Tag
+
+# 如果使用默认提示，请设置'NULL'
+subNav:
+  title:
+    github: GitHub
+    gitee: 碼雲
+    jianshu: 簡書
+    csdn: CSDN
+    rss: RSS訂閱
+    zhihu: 知乎
+    qq: QQ
+    weixin: 微信
+    weibo: 微博
+    douban: 豆瓣
+    segmentfault: SegmentFault
+    bilibili: 嗶哩嗶哩
+    acfun: 'NULL'
+    mail: '邮件联系'  # 邮件联系
+    facebook: Facebook
+    google: Google
+    twitter: Twitter
+    linkedin: 領英
+    cnblog: 博客園
+    blog: 博客

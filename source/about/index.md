@@ -1,11 +1,8 @@
 ---
-layout: posts
+
 title: 关于
 date: 2022-08-08 21:05:00
-updated: 2022-11-05 22:39:34
-tags: 
-categories: 
- - 笔记
+
 ---
 # 关于
 
