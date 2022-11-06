@@ -4,8 +4,8 @@
 
 # Site
 title: 廖廷皞的博客
-subtitle: 不待扬鞭自奋蹄 | 卷
-description: ''
+subtitle: 不待扬鞭自奋蹄
+description: 'liaouser'
 keywords:
 author: liaouser
 language: zh-CN
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: xoxo
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
