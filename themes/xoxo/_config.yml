@@ -13,7 +13,7 @@ menu:
   #rss: /atom.xml
 
 # Miscelaneous
-favicon: /avatar.jpg
+favicon: http://blog.liaotinghao.com/avatar.jpg
 
 # stylesheets loaded in the <head>
 stylesheets:
