@@ -2,6 +2,7 @@
 menu:
   主页: /
   归档: /archives
+  分类: /category
   关于: /about
   开往: http://travellings.link
   虫洞: https://www.foreverblog.cn/go.html
@@ -271,9 +272,9 @@ friends:
     #网站简介(可忽略不写)
     description: 记录工作和学习过程中的笔记：python、php、前端开发、Hexo博客、Linux笔记
   GitHub:
-    url: https://github.com/JoeyBling
+    url: https://github.com/liaouser
   码云:
-    url: https://gitee.com/zhousiwei
+    url: https://gitee.com/liaouser
   简书:
     url: https://www.jianshu.com/u/02cbf31a043a
   CSDN:
